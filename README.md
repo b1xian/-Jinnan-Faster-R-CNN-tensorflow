@@ -1,4 +1,3 @@
-# -Jinnan-Faster-R-CNN-tensorflow
 # [津南数字制造算法挑战赛](https://tianchi.aliyun.com/competition/entrance/231703/introduction) Faster R-CNN
 ---
 ## 开发环境
